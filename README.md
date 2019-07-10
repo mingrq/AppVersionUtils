@@ -15,6 +15,8 @@ allprojects {
 ```
 ```
 dependencies {
-	        implementation 'com.github.mingrq:AppVseisonUtils:Tag'
+	        implementation 'com.github.mingrq:AppVerisonUtils:Tag'
 	}
 ```
+### 方法
+#
